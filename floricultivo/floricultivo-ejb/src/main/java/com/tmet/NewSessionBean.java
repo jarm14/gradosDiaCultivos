@@ -9,7 +9,7 @@ import javax.ejb.LocalBean;
 
 /**
  *
- * @author martin
+ * @author TMET
  */
 @Stateless
 @LocalBean
