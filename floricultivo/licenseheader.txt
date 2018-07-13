@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Proyecto Floricultivo
+${licensePrefix}Derechos Reservados a TMET ${licensePrefix}
+<#if licenseLast??>
+${licenseLast}
+</#if>
